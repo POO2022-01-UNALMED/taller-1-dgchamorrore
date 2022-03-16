@@ -2,4 +2,4 @@ Dayra Gabriela Chamorro Revelo
 22 años
 Estudiar y practicar para aprender
 ¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
-porque se remplaza y puerde la informacion del archivo con el mismo nombre
+porque se remplaza y pierde la información del archivo con el mismo nombre
